@@ -1,0 +1,44 @@
+#test{
+    color: blue;
+}
+.testclass{
+    color: greenyellow;
+}
+div{
+    /* text-transform: uppercase; */
+}
+
+.header{
+    color: #ffffff;
+    background: brown;
+    width: 50%;
+    height: 100px;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 500;
+    text-decoration: underline;
+    /* padding: 10px 5px; */
+    padding: 10px 5px 10px 5px;
+    /* padding-left: 10px; */
+    margin-left: 10px;
+    border: 2px dotted #333;
+}
+.header:hover{
+    background: chartreuse;
+}
+.ultype li{
+    list-style: circle;
+    float: left;
+    margin-left: 35px;
+}
+.clear{
+    clear: both;
+}
+
+.gallery{
+    background: coral;
+    width: 30%;
+    margin-left: 1%;
+    padding: 1%;
+    float: left;
+}
